@@ -154,7 +154,7 @@ allprojects  {
             dependency 'org.mock-server:mockserver-junit-jupiter:5.13.0'
             dependency 'org.webjars.npm:swagger-ui-dist:4.6.2'
             dependency 'org.webjars:webjars-locator-core:0.50'
-            dependency 'com.icegreen:greenmail-junit5:1.6.7'
+            dependency 'com.icegreen:greenmail-junit5:1.6.12'
             dependency 'com.intuit.karate:karate-junit5:1.2.0.RC5'
 
             // fineract client dependencies
